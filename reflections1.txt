@@ -1,3 +1,5 @@
 In this lesson i learnt what version control is and why version countrol is useful.
-Version Control
-Git
+What is Version Control?
+What is Git?
+
+New (git)terms learnt in this lessons
