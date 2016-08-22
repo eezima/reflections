@@ -1,0 +1,12 @@
+In lesson two I learnt the following
+1. How to initialize a git repository
+2. How to add files from your working directory to the staging area.
+3. How to commit files to the git repository
+4. How to see difference between two files in the working directory
+5. How to see difference between two files in the working directory and staging area
+6. How to see difference between two files in the staging area and repository
+7. How to add differences to the staging area and repository
+8. how to make/view branches
+9. How to merge branches
+10. Understanding merge conflick and how to resolve them
+
